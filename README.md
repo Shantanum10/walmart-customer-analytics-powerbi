@@ -17,7 +17,7 @@ This project integrates **five interconnected datasets**:
 - Store Locations
 - Churn Labelled Customers
 
-The data model was built using **Customer_ID** and **Store_ID** relationships to create a unified analytical model for customer-centric reporting. :contentReference[oaicite:0]{index=0}
+The data model was built using **Customer_ID** and **Store_ID** relationships to create a unified analytical model for customer-centric reporting.
 
 ---
 
@@ -45,7 +45,7 @@ The project includes multiple calculated columns and DAX measures to enhance bus
 - Promotion Transaction %
 - Total Points Earned
 - Total Points Redeemed
-- Average Customer Lifetime Value (CLV) :contentReference[oaicite:1]{index=1}
+- Average Customer Lifetime Value (CLV)
 
 ---
 
@@ -75,7 +75,7 @@ The solution consists of **4 interactive dashboard pages**, each designed to ans
 - High vs Low CLV Customers
 - Customer Inactivity Analysis
 - Loyalty Tier Analysis
-- Regional Customer Analysis :contentReference[oaicite:2]{index=2}
+- Regional Customer Analysis
 
 ---
 
@@ -95,7 +95,7 @@ The solution consists of **4 interactive dashboard pages**, each designed to ans
 - Re-engage inactive customers with high Customer Lifetime Value.
 - Target low-tier customers with personalized promotions to improve retention.
 - Improve loyalty program participation by simplifying reward redemption.
-- Strengthen customer experience across underperforming sales channels. :contentReference[oaicite:4]{index=4}
+- Strengthen customer experience across underperforming sales channels. 
 
 ---
 
