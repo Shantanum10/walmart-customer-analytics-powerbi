@@ -1,4 +1,4 @@
-# walmart-customer-analytics-powerbi
+# Walmart_Customer_Analytics_PowerBI
 Customer Analytics Dashboard using Power BI | Churn Analysis | CLV | Customer Segmentation
 
 # 🛒 Walmart Customer Analytics Dashboard
