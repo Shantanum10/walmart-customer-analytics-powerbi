@@ -108,17 +108,6 @@ The solution consists of **4 interactive dashboard pages**, each designed to ans
 - Microsoft Excel
 
 ---
-
-## 📂 Repository Contents
-
-```
-📦 Dashboard (.pbix)
-📄 Project Report
-📊 Dataset
-🖼 Dashboard Screenshots
-```
-
----
 <img width="1954" height="1098" alt="KPI Overview" src="https://github.com/user-attachments/assets/3cd3168f-bae5-4e4d-8379-6820492e8483" />
 <img width="1948" height="1095" alt="Customer Segmentation" src="https://github.com/user-attachments/assets/d3605b0c-a816-4a09-8fb9-858001f715c4" />
 <img width="1950" height="1096" alt="Store   Channel Insights" src="https://github.com/user-attachments/assets/5ef30101-91b4-431f-92a0-138744b069e9" />
